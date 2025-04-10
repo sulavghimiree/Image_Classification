@@ -1,4 +1,4 @@
-**🧠 Image Detection Project**   
+🧠 Image Detection Project   
 
 Welcome to the Image Detection repository!    
 This project is focused on implementing computer vision and deep learning techniques to detect and classify objects in images.    
